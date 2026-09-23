@@ -31,5 +31,5 @@ Option 1: GitHub Pages (Recommended)
 Create account on github.com
 New repository -> name carecart -> Upload index.html
 Settings -> Pages -> Source: main branch -> Save
-Your link: https://YOURNAME.github.io/carecart/ — live forever, no expiry
+Your link: https://kumararvind-32bit.github.io/carecart/ — live forever, no expiry
 Custom domain (optional): Settings -> Pages -> Custom domain -> enter www.yourdomain.in -> add DNS A records GitHub shows. Free SSL auto.
